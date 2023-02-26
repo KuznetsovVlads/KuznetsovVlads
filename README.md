@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KuznetsovVlads
+- 👋 Hi, I’m Vlad
 - 👀 I’m interested in bike rides, new technologies, IT
 - 🌱 I’m currently learning: Ruby, JavaScript, React, ...
 
